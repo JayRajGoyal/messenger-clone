@@ -1,0 +1,32 @@
+.userMessage{
+
+    width:98%; 
+    margin-top:10px;
+    display:flex;
+    justify-content: flex-end;  
+}
+.guestMessage{
+
+    width :fit-content;
+    margin:10px;
+
+}
+.userCard{
+
+    background-color: rgb(241, 238, 238) !important;
+
+}
+.guestCard{
+    background-color:#0085FF !important;
+}
+.app_form{
+    padding:20px;
+    position :fixed;
+    width:100%;
+    bottom:10px;
+    z-index: 1;
+}
+.messageBox{
+    display: flex !important;
+    flex-direction: row !important;
+}
